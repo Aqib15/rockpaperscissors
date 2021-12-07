@@ -5,3 +5,8 @@
   display: flex;
   justify-content: space-between;
 }
+.computerImage {
+  height:100px; 
+  width:100px;
+  
+}
