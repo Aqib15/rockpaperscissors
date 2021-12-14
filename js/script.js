@@ -23,6 +23,11 @@ else if (computerNumber === 3) {
   "https://cdn.glitch.me/d46cdaf2-6d54-4e61-9125-9dd9694a67ac%2Fscissors.png?v=1638917914812"); 
   }
   
+  if(input === "Rock" && $(".computerChoice").val()=== "Rock"){
+    $(".result").text("tie");
+}
+  
+  
   
   
   
